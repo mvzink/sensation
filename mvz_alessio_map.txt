@@ -1,0 +1,20 @@
+? description -> mvz dir; alessio dir
+0  a neon blue -> north; south
+3  m dusty -> west; east
+7  a red -> north; south
+4  m flat -> west; east
+6  a dented -> north; south
+5~ m green -> west; east
+3  a dry -> south; north
+3  m firm -> west; east
+3  a orange -> south; north
+5  m pocked -> east; west
+4  a rusty -> south; north
+3  m doesn't reverberate when struck -> east; west
+4  a more than one color -> south; north
+5  m flexible -> west; east
+3  a perfectly smooth -> south; north
+4  m reflective -> east; west
+4  a contains garbage -> north; south
+4  m makes a dull clang -> east; west
+6  a silver (-> stopped)
