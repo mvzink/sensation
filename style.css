@@ -30,6 +30,8 @@ div.center p {
 .heading h1 {
     font-size: 1.5em;
 }
+.heading h2 {
+}
 
 .heading p {
     margin-top: -0.5em;
@@ -46,3 +48,8 @@ div.figure p {
 .footer p {
     margin-left: 2em;
 }
+
+ul {
+    margin-left: 3em;
+}
+
